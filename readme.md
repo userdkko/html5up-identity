@@ -1,24 +1,18 @@
-Identity by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Jekyll*ized* version of Identity by HTML5 UP
 
+*Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)*
 
-Just a fun little profile/card-style template I whipped up during a break between major
-projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
+This is a fork of the original [Identity](https://html5up.net/uploads/demos/identity/#)
+design by [HTML5 UP](https://html5up.net). I've re-factored the code to use [Jekyll](https://jekyllrb.com)
+so that it can be hosted with Github Pages. This also allows for auto-compilation of the [Sass](http://sass-lang.cpm)
+to CSS. The design is also responsive, powered by [Skel](http://skel.io).
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
+You can see a demo [here](http://mrhornsby.github.io/identity).
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Design:
+		AJ (n33.co @n33co dribbble.com/n33)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
