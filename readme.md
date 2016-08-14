@@ -7,7 +7,7 @@ design by [HTML5 UP](https://html5up.net). I've re-factored the code to use [Jek
 so that it can be hosted with Github Pages. This also allows for auto-compilation of the [Sass](http://sass-lang.cpm)
 to CSS. The design is also responsive, powered by [Skel](http://skel.io).
 
-You can see a demo [here](http://mrhornsby.github.io/identity).
+You can see a demo [here](http://mrhornsby.github.io/html5up-identity).
 
 Credits:
 
